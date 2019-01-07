@@ -1,4 +1,4 @@
-package com.cadu.meuprimeiroprojeto;
+package com.cadu.pontoeletronico;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
